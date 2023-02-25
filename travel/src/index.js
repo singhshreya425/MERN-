@@ -1,0 +1,5 @@
+const express=require('express')
+const route=require('route')
+const mongoose=require('mongoose')
+app.use(express.json())
+mongoose.connect("mongodb+srv://singhshreya425:shreyasingh1234@cluster0.yxxvuvg.mongodb.net/shreya526",{useNewUrlParser:true})
