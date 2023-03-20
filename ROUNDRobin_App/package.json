@@ -1,0 +1,22 @@
+{
+  "name": "roundrobin_app",
+  "version": "1.0.0",
+  "description": "A Round Robin tournament is a competition in which every participant plays with every other participant in the group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhshreya425/MERN-.git"
+  },
+  "author": "Shreya Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhshreya425/MERN-/issues"
+  },
+  "homepage": "https://github.com/singhshreya425/MERN-#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
